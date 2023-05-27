@@ -21,7 +21,9 @@ Aici sunt câteva resurse utile pentru dezvoltarea proiectului AquaCart:
 Documentația Next.js: https://nextjs.org/docs
 Documentația React: https://reactjs.org/docs
 Documentația CSS: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
 ---
+
 ***Tehnologii utilizate***
 > - Next js 13
 > - TailwindCss
